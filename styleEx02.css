@@ -1,0 +1,15 @@
+header {
+    position: fixed;
+}
+
+.barraLateral {
+    position: fixed;
+}
+
+.mainContent {
+    margin-left: 200px;
+}
+
+footer {
+    position: fixed;
+}

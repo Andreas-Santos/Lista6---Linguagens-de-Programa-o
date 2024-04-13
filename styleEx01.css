@@ -1,0 +1,29 @@
+html {
+    padding-bottom: 2000px;
+}
+
+.barraLateral {
+    width: 20%;
+    height: 100%;
+    background-color: rgb(87, 116, 243);
+    float: left;
+    display: flex;
+    position: fixed;
+}
+
+.mainContent {
+    width: 80%;
+    height: 100%;
+    background-color: rgb(240, 240, 240);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    float: right;
+    position: static;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
